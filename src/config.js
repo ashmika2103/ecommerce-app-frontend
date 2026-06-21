@@ -1,0 +1,1 @@
+export const API_URL = "https://ecommerce-app-backend-8hnf.onrender.com/api";
